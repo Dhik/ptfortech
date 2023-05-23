@@ -27,6 +27,18 @@
 		{
 			"id": "pb6",
 			"url": "https://app.powerbi.com/view?r=eyJrIjoiYWI3YmY1MzAtNWU0YS00YzBiLTk2ZWEtOTg5OGU3NWY1NzZiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"
+		},
+		{
+			"id": "pb7",
+			"url": "https://app.powerbi.com/view?r=eyJrIjoiYjc5OWYzOTEtZWY4Yy00NGIyLWJlYWYtNjQxMWJkYWEzOTkyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"
+		},
+		{
+			"id": "pb8",
+			"url": "https://app.powerbi.com/view?r=eyJrIjoiN2FmNzlhNTUtMGJkNS00MGRmLThhNzctMTA3MzQ3M2MyNDZhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"
+		},
+		{
+			"id": "pb9",
+			"url": "https://app.powerbi.com/view?r=eyJrIjoiNWFmYjk2ZTUtNzVhMC00MWYxLWJjNGEtN2U5ZGE2MTlmNjI5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"
 		}
 	]
 
